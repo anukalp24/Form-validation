@@ -7,7 +7,7 @@ The project validates user inputs before allowing form submission.
 It ensures that users correct invalid fields step-by-step instead of submitting incorrect data.
 
 🚀 Live Demo
-🔗 form-validation-rho-steel.vercel.app
+🔗 https://form-validation-rho-steel.vercel.app/
  
 🚀 Features
 
